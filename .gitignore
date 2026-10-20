@@ -1,0 +1,7 @@
+*.pem
+*.key
+.aws/
+credentials
+*.tfstate
+*.tfstate.*
+.terraform/

@@ -14,7 +14,7 @@ A custom VPC (`myvpc`) spread over two Availability Zones in `us-east-1`. The ba
 
 ## Architecture Diagram
 
-[![AWS architecture](docs/architecture.png)](docs/architecture.png)
+[![AWS architecture](docs/architecture.drawio.svg)](docs/architecture.drawio.svg)
 
 ## Traffic Flows
 

@@ -241,6 +241,3 @@ From the bastion (`10.0.112.43`), SSH reaches `app-1a` on its private IP `10.0.1
 - Remove the bastion and enable Session Manager directly on the private instance
 - Rebuild the whole infrastructure with **Terraform**
 
-## Credits
-
-Built following the hands-on video **"7DevOpsSRE3 AWS Custom VPC Hands-On and EC2 Systems Manager (SSM)"**, extended with a Regional NAT Gateway, a corrected architecture diagram, and screenshots of the live environment as proof.
